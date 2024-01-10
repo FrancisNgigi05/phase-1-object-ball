@@ -134,6 +134,7 @@ function namePointScored (playersName) {
     debugger;
     return (null);
 }
+
 console.log(namePointScored("Brendan Haywood"));
 // function that displays the shoe name of a player
 function shoeSize(playerName) {
@@ -154,6 +155,7 @@ function shoeSize(playerName) {
     debugger;
     return (null);
 }
+
 console.log(shoeSize("Brendan Haywood"));
 // funnction that displays the color of a team
 function teamColors(name) {
@@ -213,6 +215,7 @@ function playerStats(playerName) {
     debugger;
     return (null);
 }
+
 console.log(playerStats("Ben Gordon"));
 
 function bigShoeRebounds(playerName) {
